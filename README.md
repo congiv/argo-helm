@@ -42,3 +42,4 @@ Please refer to [SECURITY.md](SECURITY.md) for details on how to report security
 ### Changelog
 
 Releases are managed independently for each helm chart, and changelogs are tracked on each release. Read more about this process [here](https://github.com/argoproj/argo-helm/blob/main/CONTRIBUTING.md#changelog).
+
